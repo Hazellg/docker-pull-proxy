@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6  registry.cn-hangzhou.aliyuncs.com/myself-docker/home-assistant:2024.6
+gitlab/gitlab.ce  registry.cn-hangzhou.aliyuncs.com/myself-docker/gitlab:v1

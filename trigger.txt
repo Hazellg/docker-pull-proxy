@@ -1,1 +1,1 @@
-bitnami/gitlab-runner:latest  registry.cn-hangzhou.aliyuncs.com/myself-docker/gitlab-runner:latest
+jenkins/jenkins:2.452.1  registry.cn-hangzhou.aliyuncs.com/myself-docker/jenkins:2.452.1

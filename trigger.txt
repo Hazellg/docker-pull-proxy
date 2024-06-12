@@ -1,1 +1,1 @@
-bitnami/gitlab-runner:laste  registry.cn-hangzhou.aliyuncs.com/myself-docker/gitlab-runner:laste
+bitnami/gitlab-runner:latest  registry.cn-hangzhou.aliyuncs.com/myself-docker/gitlab-runner:latest

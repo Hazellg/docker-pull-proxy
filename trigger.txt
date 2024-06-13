@@ -1,1 +1,1 @@
-redis:lastes  registry.cn-hangzhou.aliyuncs.com/myself-docker/redis:lastes
+redis:7.4.2  registry.cn-hangzhou.aliyuncs.com/myself-docker/redis:7.4.2

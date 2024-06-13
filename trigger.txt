@@ -1,1 +1,1 @@
-jenkins/jenkins:2.452.1  registry.cn-hangzhou.aliyuncs.com/myself-docker/jenkins:2.452.1
+redis:lastes  registry.cn-hangzhou.aliyuncs.com/myself-docker/redis:lastes

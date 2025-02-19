@@ -1,1 +1,1 @@
-grafana:3.2.0 https://hub.docker.com/layers/grafana/logstash-output-loki/3.2.0/images/sha256-149c577e626e2be0338e274807c7530a9b858c2f7e47c062a01b37c897a210df
+grafana:latest grafana/logstash-output-loki:3.2.0

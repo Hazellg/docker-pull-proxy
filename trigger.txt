@@ -1,1 +1,1 @@
-grafana/logstash-output-loki:3.2.2 registry.cn-shenzhen.aliyuncs.com/myself-docker/grafana:3.2.0
+grafana/logstash-output-loki:3.2.0 registry.cn-hangzhou.aliyuncs.com/myself-docker/grafana:3.2.0

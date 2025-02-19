@@ -1,1 +1,2 @@
-redis:latest  registry.cn-hangzhou.aliyuncs.com/myself-docker/redis:latest
+#redis:latest  registry.cn-hangzhou.aliyuncs.com/myself-docker/redis:latest
+docker pull grafana/logstash-output-loki:3.2.0

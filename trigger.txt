@@ -1,1 +1,2 @@
-grafana/logstash-output-loki:3.2.2 registry.cn-hangzhou.aliyuncs.com/myself-docker/grafana:3.2.2
+# grafana/logstash-output-loki:3.2.2 registry.cn-hangzhou.aliyuncs.com/myself-docker/grafana:3.2.2
+node:22.18.0 registry.cn-hangzhou.aliyuncs.com/myself-docker/node:22.18
